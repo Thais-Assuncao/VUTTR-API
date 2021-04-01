@@ -49,4 +49,4 @@ Após clonar o projeto, seguir os seguintes passos:
  - Agora você já pode rodar o seu projeto. Clique em cima do nome do projeto na lateral esquerda com o botão direito do mouse > Run Ass > Java Application.
 Com isso seu projeto já deverá ter subido com sucesso e as tabelas terem sido criadas no seu Banco de Dados.
 Agora temos duas opções para fazermos a insersão dos dados. Preparei um Script 
-'''
+```
