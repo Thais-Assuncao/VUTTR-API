@@ -2,3 +2,5 @@
  
  
 Este projeto é um desafio proposto pela  <a href="https://startaideia.com.br/">STARTAIDEIA</a>
+
+<p> A aplicação é um simples repositório para gerenciar ferramentas com seus respectivos nomes, links, descrições e tags. </p>
