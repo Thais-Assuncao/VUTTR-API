@@ -25,4 +25,20 @@ Este projeto é um desafio proposto pela  <a href="https://startaideia.com.br/">
     <li>
      OpenAPI
     </li>
+     <li>
+     Spring Data JPA
+    </li>
+     <li>
+     Lombok
+    </li>
+      <li>
+     Validation
+    </li>
+      <li>
+     Spring Boot DevTools
+    </li>
 </ul>
+
+<h2>Executando o Projeto</h2
+ 
+
