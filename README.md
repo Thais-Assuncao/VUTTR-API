@@ -14,6 +14,15 @@ Este projeto é um desafio proposto pela  <a href="https://startaideia.com.br/">
     PostgreSQL (Utilizei o PgAdmin)
     </li>
 </ul>
-
-
-
+<h2> Tecnologias utilizadas </h2>
+<ul>
+    <li>
+     Spring Boot Version 2.4.4
+    </li>
+    <li>
+     Swagger
+    </li>
+    <li>
+     OpenAPI
+    </li>
+</ul>
