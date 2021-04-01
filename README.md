@@ -76,10 +76,10 @@ Ou, ao invés disso você, pode tambem acessar o link <a href="http://localhost:
 
 ```
 {
-        title: "Notion",
-        link: "https://notion.so",
-        description: "All in one tool to organize teams and ideas. Write, plan, collaborate, and get organized. ",
-        tags: [
+        "title": "Notion",
+        "link": "https://notion.so",
+        "description": "All in one tool to organize teams and ideas. Write, plan, collaborate, and get organized. ",
+        "tags": [
             "organization",
             "planning",
             "collaboration",
@@ -88,10 +88,10 @@ Ou, ao invés disso você, pode tambem acessar o link <a href="http://localhost:
         ]
     },
     {
-        title: "json-server",
-        link: "https://github.com/typicode/json-server",
-        description: "Fake REST API based on a json schema. Useful for mocking and creating APIs for front-end devs to consume in coding challenges.",
-        tags: [
+        "title": "json-server",
+        "link": "https://github.com/typicode/json-server",
+        "description": "Fake REST API based on a json schema. Useful for mocking and creating APIs for front-end devs to consume in coding challenges.",
+        "tags": [
             "api",
             "json",
             "schema",
@@ -101,10 +101,10 @@ Ou, ao invés disso você, pode tambem acessar o link <a href="http://localhost:
         ]
     },
     {
-        title: "fastify",
-        link: "https://www.fastify.io/",
-        description: "Extremely fast and simple, low-overhead web framework for NodeJS. Supports HTTP2.",
-        tags: [
+       "title": "fastify",
+        "link": "https://www.fastify.io/",
+        "description": "Extremely fast and simple, low-overhead web framework for NodeJS. Supports HTTP2.",
+        "tags": [
             "web",
             "framework",
             "node",
