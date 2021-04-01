@@ -72,4 +72,50 @@ insert into tools_tags values (3, 'http2')
 insert into tools_tags values (3, 'https')
 insert into tools_tags values (3, 'localhost')
 ```
+Ou, ao invés disso você, pode tambem acessar o link <a href="http://localhost:3000/swagger-ui.html">http://localhost:3000/swagger-ui.html</a> e por ele já conseguir testar todas as suas requisões. Primeiro faço o método POST para cadastras as ferramentas e depois testar os outros. Abaixo deixarei já no jeito para essa opço também. 
+
+```
+{
+        id: 1, // ou qualquer outro identificador
+        title: "Notion",
+        link: "https://notion.so",
+        description: "All in one tool to organize teams and ideas. Write, plan, collaborate, and get organized. ",
+        tags: [
+            "organization",
+            "planning",
+            "collaboration",
+            "writing",
+            "calendar"
+        ]
+    },
+    {
+        id: 2,
+        title: "json-server",
+        link: "https://github.com/typicode/json-server",
+        description: "Fake REST API based on a json schema. Useful for mocking and creating APIs for front-end devs to consume in coding challenges.",
+        tags: [
+            "api",
+            "json",
+            "schema",
+            "node",
+            "github",
+            "rest"
+        ]
+    },
+    {
+        id: 3,
+        title: "fastify",
+        link: "https://www.fastify.io/",
+        description: "Extremely fast and simple, low-overhead web framework for NodeJS. Supports HTTP2.",
+        tags: [
+            "web",
+            "framework",
+            "node",
+            "http2",
+            "https",
+            "localhost"
+        ]
+    }
+```
+
 
