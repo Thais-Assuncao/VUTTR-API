@@ -72,7 +72,7 @@ insert into tools_tags values (3, 'http2')
 insert into tools_tags values (3, 'https')
 insert into tools_tags values (3, 'localhost')
 ```
-Ou, ao invés disso você, pode tambem acessar o link <a href="http://localhost:3000/swagger-ui.html">http://localhost:3000/swagger-ui.html</a> e por ele já conseguir testar todas as suas requisões. Primeiro faço o método POST para cadastras as ferramentas e depois testar os outros. Abaixo deixarei já no jeito para essa opço também. 
+Ou, ao invés disso você, pode tambem acessar o link <a href="http://localhost:3000/swagger-ui.html">http://localhost:3000/swagger-ui.html</a> e por ele já conseguir testar todas as suas requisões. Primeiro faço o método POST para cadastras as ferramentas para depois conseguir testar os outros métodos. Abaixo deixarei já no jeito para essa opção também. 
 
 ```
 {
