@@ -42,11 +42,11 @@ Este projeto é um desafio proposto pela  <a href="https://startaideia.com.br/">
 <h2>Executando o Projeto</h2
 
 ```
-Após clonar o projeto, seguir os seguintes passos:
+[Após clonar o projeto, seguir os seguintes passos:
  - Abra seu projeto em sua IDE preferida, no meu caso Eclipse.
  - Abra o banco de dados, eu utilizo o PostgreSQL juntamente com o PgAdmin, e crie um novo DB como nome de "desafio-startaideia"
  - Volte na IDE e abra o "application.properties" (src/main/resources) e altere colocando seu username e password do PgAdmin.
  - Agora você já pode rodar o seu projeto. Clique em cima do nome do projeto na lateral esquerda com o botão direito do mouse > Run Ass > Java Application.
 Com isso seu projeto já deverá ter subido com sucesso e as tabelas terem sido criadas no seu Banco de Dados.
-Agora temos duas opções para fazermos a insersão dos dados. Preparei um Script 
+Agora temos duas opções para fazermos a insersão dos dados. Preparei um Script] 
 ```
