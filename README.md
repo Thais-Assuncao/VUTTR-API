@@ -76,7 +76,6 @@ Ou, ao invés disso você, pode tambem acessar o link <a href="http://localhost:
 
 ```
 {
-        id: 1, // ou qualquer outro identificador
         title: "Notion",
         link: "https://notion.so",
         description: "All in one tool to organize teams and ideas. Write, plan, collaborate, and get organized. ",
@@ -89,7 +88,6 @@ Ou, ao invés disso você, pode tambem acessar o link <a href="http://localhost:
         ]
     },
     {
-        id: 2,
         title: "json-server",
         link: "https://github.com/typicode/json-server",
         description: "Fake REST API based on a json schema. Useful for mocking and creating APIs for front-end devs to consume in coding challenges.",
@@ -103,7 +101,6 @@ Ou, ao invés disso você, pode tambem acessar o link <a href="http://localhost:
         ]
     },
     {
-        id: 3,
         title: "fastify",
         link: "https://www.fastify.io/",
         description: "Extremely fast and simple, low-overhead web framework for NodeJS. Supports HTTP2.",
